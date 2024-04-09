@@ -1,0 +1,8 @@
+/__pycache__
+params/__pycache__
+healthcheck/__pycache__
+.python_packages
+.github
+.vscode
+apim/__pycache__
+apps/__pycache__
